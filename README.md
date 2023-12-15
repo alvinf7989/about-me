@@ -17,4 +17,4 @@
 
 ---
 
-
+I like this school and SEP so far. I play video games (mostly Mario or Nintendo games)
