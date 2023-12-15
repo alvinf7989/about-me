@@ -27,3 +27,10 @@ I like this school and SEP so far. I like to play video games (mostly Mario or N
 * [Cascading Style Sheets](https://github.com/hstatsep-students/sep10-writeups-alvinf7989/blob/main/01-basic-wd/css-writeup.md)
 
 * [Applied Visual Design](https://github.com/hstatsep-students/sep10-writeups-alvinf7989/blob/main/01-basic-wd/avd-writeup.md)
+
+### Github Writeups
+* [Command Line Interface](https://github.com/hstatsep-students/sep10-writeups-alvinf7989/blob/main/02-github/cli-writeup.md)
+
+---
+
+I will have more in the future and you know what? Now that I've gotten the hang of CLI I'm going to try to put that CLI writeup in here.
