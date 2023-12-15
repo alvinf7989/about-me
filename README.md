@@ -1,6 +1,7 @@
 # about-me
 
-  Hello everyone. I'm Alvin Frias and I'm going to tell you everything about me. I am currently using the alvinf14@nycstudents.net email to write this README.md. I chose to enter Software Engineering because I like coding and someday, I wish to make my own video games. The high school I went to was High School of Telecommunications and as a freshmen, I started with Intro to Computer Science. fterwards when becoming a sophomore, I had my first **SEP**  (**Software Engineering Program**) class. I learned about HTML, CSS, AVD elements. I'm currently working on Github units which we are close to finishing. There will also be a Freedom Project after learning all the elements of SEP10. But we're not _there_ yet.
+  Hello everyone. I'm Alvin Frias and I'm going to tell
+  you everything about me. I am currently using the alvinf14@nycstudents.net email to write this README.md. I chose to enter Software Engineering because I like coding and someday, I wish to make my own video games. The high school I went to was High School of Telecommunications and as a freshmen, I started with Intro to Computer Science. fterwards when becoming a sophomore, I had my first **SEP**  (**Software Engineering Program**) class. I learned about HTML, CSS, AVD elements. I'm currently working on Github units which we are close to finishing. There will also be a Freedom Project after learning all the elements of SEP10. But we're not _there_ yet.
 
   ---
 
@@ -33,4 +34,4 @@ I like this school and SEP so far. I like to play video games (mostly Mario or N
 
 ---
 
-I will have more in the future and you know what? Now that I've gotten the hang of CLI I'm going to try to put that CLI writeup in here.
+I will have more in the future and you know what? Now that I've gotten the hang of CLI I'm going to try to put that CLI writeup in here. (Update: it worked, but all of my writeups including the CLI one went in the IDE.)
