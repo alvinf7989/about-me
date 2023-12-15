@@ -17,4 +17,9 @@
 
 ---
 
-I like this school and SEP so far. I play video games (mostly Mario or Nintendo games)
+I like this school and SEP so far. I like to play video games (mostly Mario or Nintendo games) and I thought a Technology class would be perfect for me to take steps into creating my own games. During SEP we had to make lots of write ups which I believe help me take more notes, I'll show you all of them right now.
+
+## My Writeups
+* [Hyper Text Markup Language](https://github.com/hstatsep-students/sep10-writeups-alvinf7989/blob/main/01-basic-wd/html-writeup.md)
+
+* [Cascading Style Sheets]
