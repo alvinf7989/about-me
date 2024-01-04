@@ -35,3 +35,8 @@ I like this school and SEP so far. I like to play video games (mostly Mario or N
 ---
 
 I will have more in the future and you know what? Now that I've gotten the hang of CLI I'm going to try to put that CLI writeup in here. (Update: it worked, but all of my writeups including the CLI one went in the IDE.)
+
+
+
+PS
+L + Ratio
