@@ -32,7 +32,7 @@ I like this school and SEP so far. I like to play video games (mostly Mario or N
 ### Github Writeups
 * [Command Line Interface](https://github.com/hstatsep-students/sep10-writeups-alvinf7989/blob/main/02-github/cli-writeup.md)
 
-* [Github](
+* [Github](https://github.com/hstatsep-students/sep10-writeups-alvinf7989/blob/main/02-github/github-writeup.md)
 ---
 
 I will have more in the future and you know what? Now that I've gotten the hang of CLI I'm going to try to put that CLI writeup in here. (Update: it worked, but all of my writeups including the CLI one went in the IDE.)
